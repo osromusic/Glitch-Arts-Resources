@@ -40,7 +40,9 @@ http://www.cbc.ca/radio/spark/225-autonomous-cars-and-the-future-of-cities-alway
 
 http://cdm.link/2009/03/how-to-datamosh-with-free-video-tools-datamosh-is-the-wrong-word-david-oreilly-is-also-wrong/
 
+
 Writings:
+
 http://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf
 
 http://amodern.net/wp-content/uploads/2016/05/2010_Original_Rosa-Menkman-Glitch-Studies-Manifesto.pdf
@@ -58,6 +60,7 @@ http://lab-zine.com/media/pdf/articles/phillip-stearns.pdf
 http://nickbriz.com/glitchcodectutorial/files/GlitchCodecTutorial.pdf
 
 http://www.hz-journal.org/n3/cascone.html
+
 
 Artists:
 
@@ -117,6 +120,7 @@ http://unseensignals.com/index.html
 
 http://jamesusill.tumblr.com/
 
+
 Galleries:
 
 http://transfergallery.com/exhibitions/2013/11/daniel-temkin/
@@ -135,6 +139,7 @@ http://www.microscopegallery.com/?page_id=18956
 
 http://www.brooklynartscouncil.org/files/downloads/GLITCH_GENERATION_Press_Release.pdf
 
+
 Online Journals:
 
 http://www.glitchet.com/issues/0.50
@@ -142,6 +147,7 @@ http://www.glitchet.com/issues/0.50
 https://killscreen.com/
 
 http://lab-zine.com/issues/5/articles/glitchometry/
+
 
 Tutorials:
 
@@ -221,6 +227,7 @@ http://www.fiercelycurious.com/pages/artists
 http://genekogan.com/alt-AI/
 
 http://gli.tc/h/participants/
+
 
 Other Resources:
 
