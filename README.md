@@ -172,7 +172,9 @@ https://ucnv.github.io/pnglitch/
 http://glitchart.com/portfolio/guide-to-hardware-based-glitch-video/#
 
 https://www.reddit.com/r/brokenanimegifs/wiki/tutorial
+
 Tools:
+
 https://github.com/wayspurrchen/moshy
 
 http://proletsoft.freeservers.com/mmb/gominimal.html
