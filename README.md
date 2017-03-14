@@ -5,10 +5,10 @@ Through my personal and educational research I continue to amass lists of links 
 
 Plans for future changes:
 
-	- Additions
-	- Categorizing
-	- Annotations (possible with images?)
-	- My own tutorials (probably another repository)
+	* Additions
+	* Categorizing
+	* Annotations (possible with images?)
+	* My own tutorials (probably another repository)
 
 Most importantly - please enjoy and share your glitches!
 
