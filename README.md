@@ -12,7 +12,7 @@ Plans for future changes:
 Most importantly - please enjoy and share your glitches!
 
 
-Articles:
+### Articles:
 
 [Glitch Art History](http://kernelmag.dailydot.com/issue-sections/features-issue-sections/12265/glitch-art-history/)
 
@@ -32,37 +32,37 @@ Articles:
 
 [Talking Glitch with Jon Satrom](http://median.newmediacaucus.org/tracing-newmediafeminisms/breaking-reality-talking-about-glitch-with-jon-satrom/)
 
-http://www.konbini.com/us/inspiration/mind-bending-glitch-art-from-across-the-world/
+[Gliitch Art from Across the World](http://www.konbini.com/us/inspiration/mind-bending-glitch-art-from-across-the-world/)
 
-http://remezcla.com/features/film/interview-videofilia-juan-daniel-f-molero/
+[Juan Daniel F. Molero Interview](http://remezcla.com/features/film/interview-videofilia-juan-daniel-f-molero/)
 
-http://www.cbc.ca/radio/spark/225-autonomous-cars-and-the-future-of-cities-always-on-video-communication-ambient-sound-in-the-workplace-1.2847893/a-glitch-art-primer-1.2847894
+[Glitch Art Primer] (http://www.cbc.ca/radio/spark/225-autonomous-cars-and-the-future-of-cities-always-on-video-communication-ambient-sound-in-the-workplace-1.2847893/a-glitch-art-primer-1.2847894)
 
-http://cdm.link/2009/03/how-to-datamosh-with-free-video-tools-datamosh-is-the-wrong-word-david-oreilly-is-also-wrong/
-
-
-Writings:
-
-http://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf
-
-http://amodern.net/wp-content/uploads/2016/05/2010_Original_Rosa-Menkman-Glitch-Studies-Manifesto.pdf
-
-http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=4446947&fileOId=4611259
-
-http://infinitemiledetroit.com/Hauntification,_Aesthetics_and_Gentrified_Toys_in_a_Glass_Globe_(Or_Making_Glitch_Art_Out_of_Derrida_Instead).html
-
-http://additivism.org/cookbook
-
-http://lab-zine.com/media/pdf/articles/daniel-temkin.pdf
-
-http://lab-zine.com/media/pdf/articles/phillip-stearns.pdf
-
-http://nickbriz.com/glitchcodectutorial/files/GlitchCodecTutorial.pdf
-
-http://www.hz-journal.org/n3/cascone.html
+[Datamosh David O'Reilly is Wrong](http://cdm.link/2009/03/how-to-datamosh-with-free-video-tools-datamosh-is-the-wrong-word-david-oreilly-is-also-wrong/)
 
 
-Artists:
+### Writings:
+
+[The Glitch Moment(um)](http://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf)
+
+[The Glitch Studies Manifesto](http://amodern.net/wp-content/uploads/2016/05/2010_Original_Rosa-Menkman-Glitch-Studies-Manifesto.pdf)
+
+[Glitch Art Narratives](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=4446947&fileOId=4611259)
+
+[Hauntification, Aesthetics and Gentrified Toys in a Glass Globe](http://infinitemiledetroit.com/Hauntification,_Aesthetics_and_Gentrified_Toys_in_a_Glass_Globe_(Or_Making_Glitch_Art_Out_of_Derrida_Instead).html)
+
+[The 3D Additivist Cookbook](http://additivism.org/cookbook)
+
+[Daniel Temkin](http://lab-zine.com/media/pdf/articles/daniel-temkin.pdf)
+
+[Phillip Stearns](http://lab-zine.com/media/pdf/articles/phillip-stearns.pdf)
+
+[The Glitch Codec Tutorial](http://nickbriz.com/glitchcodectutorial/files/GlitchCodecTutorial.pdf)
+
+[The Aesthetics of Failure](http://www.hz-journal.org/n3/cascone.html)
+
+
+### Artists:
 
 http://www.selbysart.com/Spencer-Selby-Statement.php
 
@@ -121,7 +121,7 @@ http://unseensignals.com/index.html
 http://jamesusill.tumblr.com/
 
 
-Galleries:
+### Galleries:
 
 http://transfergallery.com/exhibitions/2013/11/daniel-temkin/
 
@@ -140,7 +140,7 @@ http://www.microscopegallery.com/?page_id=18956
 http://www.brooklynartscouncil.org/files/downloads/GLITCH_GENERATION_Press_Release.pdf
 
 
-Online Journals:
+### Online Journals:
 
 http://www.glitchet.com/issues/0.50
 
@@ -149,7 +149,7 @@ https://killscreen.com/
 http://lab-zine.com/issues/5/articles/glitchometry/
 
 
-Tutorials:
+### Tutorials:
 
 http://praseodym.deviantart.com/art/Databending-Tutorial-v0-1-169683736
 
@@ -173,7 +173,7 @@ http://glitchart.com/portfolio/guide-to-hardware-based-glitch-video/#
 
 https://www.reddit.com/r/brokenanimegifs/wiki/tutorial
 
-Tools:
+### Tools:
 
 https://github.com/wayspurrchen/moshy
 
@@ -222,7 +222,7 @@ http://www.virtualdub.org/
 http://www.bulkrenameutility.co.uk/Main_Intro.php
 
 
-Collectives:
+### Collectives:
 
 http://www.fiercelycurious.com/pages/artists
 
@@ -231,7 +231,7 @@ http://genekogan.com/alt-AI/
 http://gli.tc/h/participants/
 
 
-Other Resources:
+### Other Resources:
 
 http://www.glitchet.com/resources
 
