@@ -36,7 +36,7 @@ Most importantly - please enjoy and share your glitches!
 
 [Juan Daniel F. Molero Interview](http://remezcla.com/features/film/interview-videofilia-juan-daniel-f-molero/)
 
-[Glitch Art Primer] (http://www.cbc.ca/radio/spark/225-autonomous-cars-and-the-future-of-cities-always-on-video-communication-ambient-sound-in-the-workplace-1.2847893/a-glitch-art-primer-1.2847894)
+[Glitch Art Primer](http://www.cbc.ca/radio/spark/225-autonomous-cars-and-the-future-of-cities-always-on-video-communication-ambient-sound-in-the-workplace-1.2847893/a-glitch-art-primer-1.2847894)
 
 [Datamosh David O'Reilly is Wrong](http://cdm.link/2009/03/how-to-datamosh-with-free-video-tools-datamosh-is-the-wrong-word-david-oreilly-is-also-wrong/)
 
