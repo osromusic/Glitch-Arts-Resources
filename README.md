@@ -14,23 +14,23 @@ Most importantly - please enjoy and share your glitches!
 
 Articles:
 
-http://kernelmag.dailydot.com/issue-sections/features-issue-sections/12265/glitch-art-history/
+[Glitch Art History](http://kernelmag.dailydot.com/issue-sections/features-issue-sections/12265/glitch-art-history/)
 
-http://hyperallergic.com/134709/glitch-expectations-a-conversation-with-jon-cates/
+[Conversation with Jon Cates](http://hyperallergic.com/134709/glitch-expectations-a-conversation-with-jon-cates/)
 
-http://hyperallergic.com/56704/faultline-an-interview-exploring-glitch-art/
+[Interview Exploring Glitch Art](http://hyperallergic.com/56704/faultline-an-interview-exploring-glitch-art/)
 
-https://birdinflight.com/media/scroll-glitch-and-virtual-reality-art-directors-name-the-main-trends-of-2016.html
+[Trends of 2016: Glitch and VR](https://birdinflight.com/media/scroll-glitch-and-virtual-reality-art-directors-name-the-main-trends-of-2016.html)
 
-http://www.redefinemag.com/2014/glitch-art-expression-through-an-aesthetic-rooted-in-error/4/
+[Expression Through Error](http://www.redefinemag.com/2014/glitch-art-expression-through-an-aesthetic-rooted-in-error/4/)
 
-http://artpulsemagazine.com/glossing-over-thoughts-on-glitch-a-poetry-of-error
+[Poetry of Error](http://artpulsemagazine.com/glossing-over-thoughts-on-glitch-a-poetry-of-error)
 
-https://archpaper.com/2015/10/error-404-building-not-found-glitch-art-architecture-basel/
+[Glitch Building](https://archpaper.com/2015/10/error-404-building-not-found-glitch-art-architecture-basel/)
 
-https://www.theguardian.com/artanddesign/2013/oct/25/rise-of-glitch-art
+[Rise of Glitch Art](https://www.theguardian.com/artanddesign/2013/oct/25/rise-of-glitch-art)
 
-http://median.newmediacaucus.org/tracing-newmediafeminisms/breaking-reality-talking-about-glitch-with-jon-satrom/
+[Talking Glitch with Jon Satrom](http://median.newmediacaucus.org/tracing-newmediafeminisms/breaking-reality-talking-about-glitch-with-jon-satrom/)
 
 http://www.konbini.com/us/inspiration/mind-bending-glitch-art-from-across-the-world/
 
