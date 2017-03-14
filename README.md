@@ -8,6 +8,7 @@ Plans for future changes:
 	* Additions
 	* Categorizing
 	* Annotations (possible with images?)
+	* Complete markdown editing
 	* My own tutorials (probably another repository)
 
 Most importantly - please enjoy and share your glitches!
