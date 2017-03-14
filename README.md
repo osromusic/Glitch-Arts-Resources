@@ -61,6 +61,32 @@ Most importantly - please enjoy and share your glitches!
 
 [The Aesthetics of Failure](http://www.hz-journal.org/n3/cascone.html)
 
+### Books:
+
+[Cracked Media by Caleb Kelly](https://mitpress.mit.edu/books/cracked-media)
+
+[Glitch: Designing Imperfection by Imam Moradi](https://mitpress.mit.edu/books/cracked-media)
+
+[The Soundscape by R. Murray Schafer](https://www.amazon.com/Soundscape-R-Murray-Schafer/dp/0892814551/)
+
+[Sonic Experience: Guide to Everyday Sounds by Augoyard & Torgue](https://www.amazon.com/Sonic-Experience-Guide-Everyday-Sounds/dp/077352942X/)
+
+[The Art of Noise by Luigi Russolo](https://www.amazon.com/Art-Noise-Destruction-Futurist-Machines/dp/0983884234/)
+
+[Noise Channels by Peter Krapp](https://www.amazon.com/Noise-Channels-Digital-Electronic-Mediations/dp/0816676259/)
+
+[Glitch Art in Theory and Practice by Michael Betancourt](https://www.amazon.com/Glitch-Art-Theory-Practice-Post-Digital/dp/1138219541/)
+
+[Information Doesn't Want to Be Free by Cory Doctorow](https://www.amazon.com/Information-Doesnt-Want-Be-Free/dp/1940450462/)
+
+[Pattern Recognition by William Gibson](https://www.amazon.com/Pattern-Recognition-William-Gibson/dp/0425198685/)
+
+[Entropy and Art by Rudolph Arnheim](https://www.amazon.com/Entropy-Art-Essay-Disorder-Order/dp/0520266005/)
+
+[Rosencrantz and Guildenstern Are Dead by Tom Stoppard](https://www.amazon.com/Rosencrantz-Guildenstern-Are-Dead-Stoppard/dp/0802132758/)
+
+[Rules for Radicals by Saul Alinsky](https://www.amazon.com/Rules-Radicals-Practical-Primer-Realistic/dp/0679721134/)
+
 
 ### Artists:
 
