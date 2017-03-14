@@ -4,10 +4,11 @@ A curated list of resources for all arts glitch.
 Through my personal and educational research I continue to amass lists of links for many things glitch. I hope to (eventually) annotate this list with pertinent information. As of now it is barely categorized. Any any all additions and suggestions welcomed! This is my first repository (aside from my hello-world), so if I don’t seem like I know what I am doing it is because I don’t! Any and all help in that respect is also appreciated.
 
 Plans for future changes:
-	Additions
-	Categorizing
-	Annotations (possible with images?)
-	My own tutorials (probably another repository)
+
+	- Additions
+	- Categorizing
+	- Annotations (possible with images?)
+	- My own tutorials (probably another repository)
 
 Most importantly - please enjoy and share your glitches!
 
