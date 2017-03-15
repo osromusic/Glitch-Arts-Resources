@@ -13,6 +13,19 @@ Plans for future changes:
 
 Most importantly - please enjoy and share your glitches!
 
+## Contents
+- [Glitch Arts Resources](#glitch-arts-resources)
+- [Articles](#articles)
+- [Writings](#writings)
+- [Books](#books)
+- [Artists](#artists)
+- [Galleries](#galleries)
+- [Online Journals](#online-journals)
+- [Tutorials](#tutorials)
+- [Tools](#tools)
+- [Collectives](#collectives)
+- [Resources](#resources)
+
 
 ### Articles:
 
