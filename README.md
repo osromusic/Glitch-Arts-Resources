@@ -1,5 +1,5 @@
 # Glitch-Arts-Resources
-A curated list of resources for all arts glitch. 
+> A curated list of resources for all arts glitch.
 
 Through my personal and educational research I continue to amass lists of links for many things glitch. I hope to (eventually) annotate this list with pertinent information. As of now it is barely categorized. Any any all additions and suggestions welcomed! This is my first repository (aside from my hello-world), so if I don’t seem like I know what I am doing it is because I don’t! Any and all help in that respect is also appreciated.
 
@@ -16,31 +16,31 @@ Most importantly - please enjoy and share your glitches!
 
 ### Articles:
 
-[Glitch Art History](http://kernelmag.dailydot.com/issue-sections/features-issue-sections/12265/glitch-art-history/)
+* [Glitch Art History](http://kernelmag.dailydot.com/issue-sections/features-issue-sections/12265/glitch-art-history/)
 
-[Conversation with Jon Cates](http://hyperallergic.com/134709/glitch-expectations-a-conversation-with-jon-cates/)
+* [Conversation with Jon Cates](http://hyperallergic.com/134709/glitch-expectations-a-conversation-with-jon-cates/)
 
-[Interview Exploring Glitch Art](http://hyperallergic.com/56704/faultline-an-interview-exploring-glitch-art/)
+* [Interview Exploring Glitch Art](http://hyperallergic.com/56704/faultline-an-interview-exploring-glitch-art/)
 
-[Trends of 2016: Glitch and VR](https://birdinflight.com/media/scroll-glitch-and-virtual-reality-art-directors-name-the-main-trends-of-2016.html)
+* [Trends of 2016: Glitch and VR](https://birdinflight.com/media/scroll-glitch-and-virtual-reality-art-directors-name-the-main-trends-of-2016.html)
 
-[Expression Through Error](http://www.redefinemag.com/2014/glitch-art-expression-through-an-aesthetic-rooted-in-error/4/)
+* [Expression Through Error](http://www.redefinemag.com/2014/glitch-art-expression-through-an-aesthetic-rooted-in-error/4/)
 
-[Poetry of Error](http://artpulsemagazine.com/glossing-over-thoughts-on-glitch-a-poetry-of-error)
+* [Poetry of Error](http://artpulsemagazine.com/glossing-over-thoughts-on-glitch-a-poetry-of-error)
 
-[Glitch Building](https://archpaper.com/2015/10/error-404-building-not-found-glitch-art-architecture-basel/)
+* [Glitch Building](https://archpaper.com/2015/10/error-404-building-not-found-glitch-art-architecture-basel/)
 
-[Rise of Glitch Art](https://www.theguardian.com/artanddesign/2013/oct/25/rise-of-glitch-art)
+* [Rise of Glitch Art](https://www.theguardian.com/artanddesign/2013/oct/25/rise-of-glitch-art)
 
-[Talking Glitch with Jon Satrom](http://median.newmediacaucus.org/tracing-newmediafeminisms/breaking-reality-talking-about-glitch-with-jon-satrom/)
+* [Talking Glitch with Jon Satrom](http://median.newmediacaucus.org/tracing-newmediafeminisms/breaking-reality-talking-about-glitch-with-jon-satrom/)
 
-[Gliitch Art from Across the World](http://www.konbini.com/us/inspiration/mind-bending-glitch-art-from-across-the-world/)
+* [Glitch Art from Across the World](http://www.konbini.com/us/inspiration/mind-bending-glitch-art-from-across-the-world/)
 
-[Juan Daniel F. Molero Interview](http://remezcla.com/features/film/interview-videofilia-juan-daniel-f-molero/)
+* [Juan Daniel F. Molero Interview](http://remezcla.com/features/film/interview-videofilia-juan-daniel-f-molero/)
 
-[Glitch Art Primer](http://www.cbc.ca/radio/spark/225-autonomous-cars-and-the-future-of-cities-always-on-video-communication-ambient-sound-in-the-workplace-1.2847893/a-glitch-art-primer-1.2847894)
+* [Glitch Art Primer](http://www.cbc.ca/radio/spark/225-autonomous-cars-and-the-future-of-cities-always-on-video-communication-ambient-sound-in-the-workplace-1.2847893/a-glitch-art-primer-1.2847894)
 
-[Datamosh David O'Reilly is Wrong](http://cdm.link/2009/03/how-to-datamosh-with-free-video-tools-datamosh-is-the-wrong-word-david-oreilly-is-also-wrong/)
+* [Datamosh David O'Reilly is Wrong](http://cdm.link/2009/03/how-to-datamosh-with-free-video-tools-datamosh-is-the-wrong-word-david-oreilly-is-also-wrong/)
 
 
 ### Writings:
@@ -65,7 +65,7 @@ Most importantly - please enjoy and share your glitches!
 
 ### Books:
 
-[Cracked Media by Caleb Kelly](https://mitpress.mit.edu/books/cracked-media)
+[Cracked Media](https://mitpress.mit.edu/books/cracked-media) by Caleb Kelly
 
 [Glitch: Designing Imperfection by Imam Moradi](https://mitpress.mit.edu/books/cracked-media)
 
