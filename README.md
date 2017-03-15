@@ -25,7 +25,8 @@ Most importantly - please enjoy and share your glitches!
 	- [Tools](#tools)
 	- [Collectives](#collectives)
 	- [Resources](#resources)
-
+	
+- - - 
 
 ### Articles:
 
