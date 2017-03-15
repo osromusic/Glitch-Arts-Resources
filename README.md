@@ -13,6 +13,7 @@ Plans for future changes:
 
 Most importantly - please enjoy and share your glitches!
 
+
 ## Contents
 - [Glitch Arts Resources](#glitch-arts-resources)
 	- [Articles](#articles)
@@ -28,8 +29,9 @@ Most importantly - please enjoy and share your glitches!
 	
 - - - 
 
+
 ### Articles:
-_Article about Glitch Art | Interviews with Artists | Short writings by Artists_
+_Articles about Glitch Art | Interviews with Artists | Short writings by Artists_
 
 * [Glitch Art History](http://kernelmag.dailydot.com/issue-sections/features-issue-sections/12265/glitch-art-history/)
 
@@ -81,6 +83,7 @@ _Long-form writings on Glitch, process, meaning, and aesthetics_
 
 * [The Aesthetics of Failure](http://www.hz-journal.org/n3/cascone.html)
 
+
 ### Books:
 _Books on Glitch | Studies and theories that overlap with Glitch | Glitch in Books_
 
@@ -115,6 +118,7 @@ _Books on Glitch | Studies and theories that overlap with Glitch | Glitch in Boo
 * [Any book by Philip K. Dick](https://www.amazon.com/Philip-K-Dick-Collection/dp/1598530496/)
 
 * [Pattern Recognition](https://www.amazon.com/Pattern-Recognition-William-Gibson/dp/0425198685/) by William Gibson
+
 
 ### Artists:
 _This section needs to most work | Artists should be arranged by dominant medium and Location_
@@ -212,33 +216,32 @@ _Daily writings exploring technology, art, humanity and their intersection_
 * [Motherboard](https://motherboard.vice.com/)
 
 
-
 ### Tutorials:
+_Lessons, instructions, tips, tricks, techniques, and more!_
 
-http://praseodym.deviantart.com/art/Databending-Tutorial-v0-1-169683736
+* [Databending Tutorial](http://praseodym.deviantart.com/art/Databending-Tutorial-v0-1-169683736)
 
-http://blog.animalswithinanimals.com/2008/08/databending-and-glitch-art-primer-part.html
+* [Glitch Art Primer](http://blog.animalswithinanimals.com/2008/08/databending-and-glitch-art-primer-part.html)
 
-http://audiogeekzine.com/2013/06/databending-images-with-text-editor/
+* [Databend with text editor](http://audiogeekzine.com/2013/06/databending-images-with-text-editor/)
 
-http://paulhertz.net/factory/showcase-2/databending/
+* [Databending](http://paulhertz.net/factory/showcase-2/databending/)
 
-http://nickbriz.com/glitchcodectutorial/
+* [Glitch Codec Tutorial](http://nickbriz.com/glitchcodectutorial/)
 
-https://www.youtube.com/watch?annotation_id=annotation_460329&feature=iv&src_vid=uUkEIVixcbo&v=tYf3EWMuHH0
+* [How To Datamosh](https://www.youtube.com/watch?annotation_id=annotation_460329&feature=iv&src_vid=uUkEIVixcbo&v=tYf3EWMuHH0)
 
-http://datamoshing.com/2016/06/16/how-to-glitch-images-using-pixel-sorting/
+* [Pixel Sorting](http://datamoshing.com/2016/06/16/how-to-glitch-images-using-pixel-sorting/)
 
-http://datamoshing.com/
+* [PNG Glitch](https://ucnv.github.io/pnglitch/)
 
-https://ucnv.github.io/pnglitch/
+* [Hardware Video Glitch](http://glitchart.com/portfolio/guide-to-hardware-based-glitch-video/#)
 
-http://glitchart.com/portfolio/guide-to-hardware-based-glitch-video/#
+* [Broken GIFs](https://www.reddit.com/r/brokenanimegifs/wiki/tutorial)
 
-https://www.reddit.com/r/brokenanimegifs/wiki/tutorial
 
 ### Tools:
-_Ultility, Work flow, Command line, GUI, broken, post-processing | Share some of your favorites!_
+_Utility, Work flow, Command line, GUI, broken, post-processing | Share some of your favorites!_
 
 * [Moshy](https://github.com/wayspurrchen/moshy)
 
@@ -247,6 +250,8 @@ _Ultility, Work flow, Command line, GUI, broken, post-processing | Share some of
 * [V002 Glitch](http://v002.info/plugins/v002-glitch/)
 
 * [AVI Glitch](https://ucnv.github.io/aviglitch/)
+
+* [PNG Glitch](https://ucnv.github.io/pnglitch/)
 
 * [Image Conversion](http://earsketch.gatech.edu/imageConversion/)
 
@@ -298,6 +303,7 @@ _Ultility, Work flow, Command line, GUI, broken, post-processing | Share some of
 
 
 ### Collectives:
+_Glitch Artist groups_
 
 * http://www.fiercelycurious.com/pages/artists
 
@@ -307,6 +313,9 @@ _Ultility, Work flow, Command line, GUI, broken, post-processing | Share some of
 
 
 ### Other Resources:
+_Other lists of resources and related sources of information_
+
+http://datamoshing.com/
 
 https://www.reddit.com/r/glitch_art/
 
