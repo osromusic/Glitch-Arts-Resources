@@ -29,6 +29,7 @@ Most importantly - please enjoy and share your glitches!
 - - - 
 
 ### Articles:
+_Article about Glitch Art | Interviews with Artists | Short writings by Artists_
 
 * [Glitch Art History](http://kernelmag.dailydot.com/issue-sections/features-issue-sections/12265/glitch-art-history/)
 
@@ -48,6 +49,8 @@ Most importantly - please enjoy and share your glitches!
 
 * [Talking Glitch with Jon Satrom](http://median.newmediacaucus.org/tracing-newmediafeminisms/breaking-reality-talking-about-glitch-with-jon-satrom/)
 
+* [Inside The Bizarre Phenomenon Known As “Glitch Art”](https://www.fastcompany.com/3034296/inside-the-bizarre-phenomenon-known-as-glitch-art)
+
 * [Glitch Art from Across the World](http://www.konbini.com/us/inspiration/mind-bending-glitch-art-from-across-the-world/)
 
 * [Juan Daniel F. Molero Interview](http://remezcla.com/features/film/interview-videofilia-juan-daniel-f-molero/)
@@ -58,6 +61,7 @@ Most importantly - please enjoy and share your glitches!
 
 
 ### Writings:
+_Long-form writings on Glitch, process, meaning, and aesthetics_
 
 * [The Glitch Moment(um)](http://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf)
 
@@ -78,10 +82,15 @@ Most importantly - please enjoy and share your glitches!
 * [The Aesthetics of Failure](http://www.hz-journal.org/n3/cascone.html)
 
 ### Books:
+_Books on Glitch | Studies and theories that overlap with Glitch | Glitch in Books_
 
 * [Cracked Media](https://mitpress.mit.edu/books/cracked-media) by Caleb Kelly
 
 * [Glitch: Designing Imperfection](https://mitpress.mit.edu/books/cracked-media) by Imam Moradi
+
+* [Noise Channels](https://www.amazon.com/Noise-Channels-Digital-Electronic-Mediations/dp/0816676259/) by Peter Krapp
+
+* [Glitch Art in Theory and Practice](https://www.amazon.com/Glitch-Art-Theory-Practice-Post-Digital/dp/1138219541/) by Michael Betancourt
 
 * [The Soundscape](https://www.amazon.com/Soundscape-R-Murray-Schafer/dp/0892814551/) by R. Murray Schafer
 
@@ -89,22 +98,26 @@ Most importantly - please enjoy and share your glitches!
 
 * [The Art of Noise](https://www.amazon.com/Art-Noise-Destruction-Futurist-Machines/dp/0983884234/) by Luigi Russolo
 
-* [Noise Channels](https://www.amazon.com/Noise-Channels-Digital-Electronic-Mediations/dp/0816676259/) by Peter Krapp
-
-* [Glitch Art in Theory and Practice](https://www.amazon.com/Glitch-Art-Theory-Practice-Post-Digital/dp/1138219541/) by Michael Betancourt
-
 * [Information Doesn't Want to Be Free](https://www.amazon.com/Information-Doesnt-Want-Be-Free/dp/1940450462/) by Cory Doctorow
-
-* [Pattern Recognition](https://www.amazon.com/Pattern-Recognition-William-Gibson/dp/0425198685/) by William Gibson
 
 * [Entropy and Art](https://www.amazon.com/Entropy-Art-Essay-Disorder-Order/dp/0520266005/) by Rudolph Arnheim
 
-* [Rosencrantz and Guildenstern Are Dead](https://www.amazon.com/Rosencrantz-Guildenstern-Are-Dead-Stoppard/dp/0802132758/) by Tom Stoppard
-
 * [Rules for Radicals](https://www.amazon.com/Rules-Radicals-Practical-Primer-Realistic/dp/0679721134/) by Saul Alinsky
 
+* [Mother Courage and Her Children](https://www.amazon.com/Mother-Courage-Children-Bertolt-Brecht/dp/0802130828/) by Bertolt Brecht
+
+* [The Unnamable](https://www.amazon.com/Three-Novels-Molloy-Malone-Unnamable/dp/0802144470) by Samuel Beckett
+
+* [Rosencrantz and Guildenstern Are Dead](https://www.amazon.com/Rosencrantz-Guildenstern-Are-Dead-Stoppard/dp/0802132758/) by Tom Stoppard
+
+* [A Scanner Darkly](https://www.amazon.com/Scanner-Darkly-Philip-K-Dick/dp/0547572174/) by Philip K. Dick
+
+* [Any book by Philip K. Dick](https://www.amazon.com/Philip-K-Dick-Collection/dp/1598530496/)
+
+* [Pattern Recognition](https://www.amazon.com/Pattern-Recognition-William-Gibson/dp/0425198685/) by William Gibson
 
 ### Artists:
+_This section needs to most work | Artists should be arranged by dominant medium and Location_
 
 http://www.selbysart.com/Spencer-Selby-Statement.php
 
@@ -164,6 +177,7 @@ http://jamesusill.tumblr.com/
 
 
 ### Galleries:
+_Should be divided between physical and virtual spaces | Primary Glitch galleries should be up front before archives of exhibits_
 
 http://transfergallery.com/exhibitions/2013/11/daniel-temkin/
 
@@ -182,13 +196,21 @@ http://www.microscopegallery.com/?page_id=18956
 http://www.brooklynartscouncil.org/files/downloads/GLITCH_GENERATION_Press_Release.pdf
 
 
-### Online Journals:
+### Online Journals, Blogs, & Zines:
+_Daily writings exploring technology, art, humanity and their intersection_
 
-http://www.glitchet.com/issues/0.50
+* [CDM](http://cdm.link/)
 
-https://killscreen.com/
+* [e-flux](http://www.e-flux.com/)
 
-http://lab-zine.com/issues/5/articles/glitchometry/
+* [Glitchet](http://www.glitchet.com/)
+
+* [Kill Screen](https://killscreen.com/)
+
+* [LAB](http://lab-zine.com/)
+
+* [Motherboard](https://motherboard.vice.com/)
+
 
 
 ### Tutorials:
@@ -216,72 +238,89 @@ http://glitchart.com/portfolio/guide-to-hardware-based-glitch-video/#
 https://www.reddit.com/r/brokenanimegifs/wiki/tutorial
 
 ### Tools:
+_Ultility, Work flow, Command line, GUI, broken, post-processing | Share some of your favorites!_
 
-https://github.com/wayspurrchen/moshy
+* [Moshy](https://github.com/wayspurrchen/moshy)
 
-http://proletsoft.freeservers.com/mmb/gominimal.html
+* [Go Minimal](http://proletsoft.freeservers.com/mmb/gominimal.html)
 
-http://v002.info/plugins/v002-glitch/
+* [V002 Glitch](http://v002.info/plugins/v002-glitch/)
 
-https://ucnv.github.io/aviglitch/
+* [AVI Glitch](https://ucnv.github.io/aviglitch/)
 
-http://earsketch.gatech.edu/imageConversion/
+* [Image Conversion](http://earsketch.gatech.edu/imageConversion/)
 
-http://earsketch.gatech.edu/landing/#/
+* [Ear Sketch](http://earsketch.gatech.edu/landing/#/)
 
-http://augustuspash.com/datamosh-studio/
+* [Datamosh Studio](http://augustuspash.com/datamosh-studio/)
 
-http://signalculture.org/appclub.html
+* [Signal Culture Apps](http://signalculture.org/appclub.html)
 
-https://github.com/Sciss/FScape
+* [FScape](https://github.com/Sciss/FScape)
 
-https://github.com/Sciss/Eisenkraut
+* [Eisenkraut](https://github.com/Sciss/Eisenkraut)
 
-http://www.audacityteam.org/
+* [Gleetchlab 3](http://www.giorgiosancristoforo.net/softwares/gleetchlab-3/) - no longer available :( but maybe one day!
 
-https://ffmpeg.org/
+* [Audacity](http://www.audacityteam.org/)
 
-https://mh-nexus.de/en/hxd/
+* [FFMpeg](https://ffmpeg.org/)
 
-https://www.gimp.org/
+* [HxD](https://mh-nexus.de/en/hxd/)
 
-https://processing.org/
+* [GIMP](https://www.gimp.org/)
 
-https://puredata.info/
+* [Processing](https://processing.org/)
 
-https://www.blender.org/
+* [Puredata](https://puredata.info/)
 
-https://inkscape.org/en/
+* [SuperCollider](https://supercollider.github.io/)
 
-https://handbrake.fr/
+* [Blender](https://www.blender.org/) - 3d Modeling & Animation
 
-http://corz.org/windows/software/ffe/
+* [Inkscape](https://inkscape.org/en/) - Vector Graphics
 
-http://fixounet.free.fr/avidemux/
+* [Handbrake](https://handbrake.fr/)
 
-http://www.virtualdub.org/
+* [ffe](http://corz.org/windows/software/ffe/) - FFMpeg GUI
 
-http://www.bulkrenameutility.co.uk/Main_Intro.php
+* [AVI Demux](http://fixounet.free.fr/avidemux/)
+
+* [Virtual Dub](http://www.virtualdub.org/)
+
+* [QC Video Tools](https://github.com/bavc/qctools)
+
+* [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php)
+
+* [Media Info](https://mediaarea.net/en/MediaInfo)
+
+* [VLC Player](https://www.videolan.org/vlc/index.html)
 
 
 ### Collectives:
 
-http://www.fiercelycurious.com/pages/artists
+* http://www.fiercelycurious.com/pages/artists
 
-http://genekogan.com/alt-AI/
+* http://genekogan.com/alt-AI/
 
-http://gli.tc/h/participants/
+* http://gli.tc/h/participants/
 
 
 ### Other Resources:
+
+https://www.reddit.com/r/glitch_art/
 
 http://www.glitchet.com/resources
 
 http://danieltemkin.com/Tutorials
 
+https://phillipstearns.wordpress.com/glitch-art-resources/
+
 http://ask.metafilter.com/167539/What-techniques-do-you-use-to-make-glitch-art
 
 http://glitchart.com/
+
+https://www.reddit.com/r/videosynthesis/
 
 https://news.ycombinator.com/item?id=2555305
 
