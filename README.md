@@ -63,7 +63,7 @@ _Articles about Glitch Art | Interviews with Artists | Short writings by Artists
 
 
 ### Writings:
-_Long-form writings on Glitch, process, meaning, and aesthetics_
+_Long-form writings on Glitch process, meaning, and aesthetics_
 
 * [The Glitch Moment(um)](http://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf)
 
@@ -87,25 +87,36 @@ _Long-form writings on Glitch, process, meaning, and aesthetics_
 ### Books:
 _Books on Glitch | Studies and theories that overlap with Glitch | Glitch in Books_
 
-* [Cracked Media](https://mitpress.mit.edu/books/cracked-media) by Caleb Kelly
+#### Books on Glitch
+_Books specifically on Glitch Art - Suggestions welcomed!_
 
 * [Glitch: Designing Imperfection](https://mitpress.mit.edu/books/cracked-media) by Imam Moradi
 
-* [Noise Channels](https://www.amazon.com/Noise-Channels-Digital-Electronic-Mediations/dp/0816676259/) by Peter Krapp
-
 * [Glitch Art in Theory and Practice](https://www.amazon.com/Glitch-Art-Theory-Practice-Post-Digital/dp/1138219541/) by Michael Betancourt
+
+#### Related Studies
+_We are only beginning to understand Glitch philosophy. Here are some suggestions for foundational theories_
+
+* [The Art of Noise](https://www.amazon.com/Art-Noise-Destruction-Futurist-Machines/dp/0983884234/) by Luigi Russolo
+
+* [Cracked Media](https://mitpress.mit.edu/books/cracked-media) by Caleb Kelly
+
+* [Noise Channels](https://www.amazon.com/Noise-Channels-Digital-Electronic-Mediations/dp/0816676259/) by Peter Krapp
 
 * [The Soundscape](https://www.amazon.com/Soundscape-R-Murray-Schafer/dp/0892814551/) by R. Murray Schafer
 
 * [Sonic Experience: Guide to Everyday Sounds](https://www.amazon.com/Sonic-Experience-Guide-Everyday-Sounds/dp/077352942X/) by Augoyard & Torgue
-
-* [The Art of Noise](https://www.amazon.com/Art-Noise-Destruction-Futurist-Machines/dp/0983884234/) by Luigi Russolo
 
 * [Information Doesn't Want to Be Free](https://www.amazon.com/Information-Doesnt-Want-Be-Free/dp/1940450462/) by Cory Doctorow
 
 * [Entropy and Art](https://www.amazon.com/Entropy-Art-Essay-Disorder-Order/dp/0520266005/) by Rudolph Arnheim
 
 * [Rules for Radicals](https://www.amazon.com/Rules-Radicals-Practical-Primer-Realistic/dp/0679721134/) by Saul Alinsky
+
+#### Glitch in Books
+_What would Glitch look like in literature? Using Menkman's definition here are some examples_
+
+* [Don Quixote](https://www.amazon.com/Quixote-Penguin-Classics-Cervantes-Saavedra/dp/0142437239/) by Miguel De Cervantes Saavedra
 
 * [Mother Courage and Her Children](https://www.amazon.com/Mother-Courage-Children-Bertolt-Brecht/dp/0802130828/) by Bertolt Brecht
 
