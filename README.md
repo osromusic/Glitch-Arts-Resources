@@ -15,16 +15,16 @@ Most importantly - please enjoy and share your glitches!
 
 ## Contents
 - [Glitch Arts Resources](#glitch-arts-resources)
-- [Articles](#articles)
-- [Writings](#writings)
-- [Books](#books)
-- [Artists](#artists)
-- [Galleries](#galleries)
-- [Online Journals](#online-journals)
-- [Tutorials](#tutorials)
-- [Tools](#tools)
-- [Collectives](#collectives)
-- [Resources](#resources)
+	- [Articles](#articles)
+	- [Writings](#writings)
+	- [Books](#books)
+	- [Artists](#artists)
+	- [Galleries](#galleries)
+	- [Online Journals](#online-journals)
+	- [Tutorials](#tutorials)
+	- [Tools](#tools)
+	- [Collectives](#collectives)
+	- [Resources](#resources)
 
 
 ### Articles:
@@ -58,49 +58,49 @@ Most importantly - please enjoy and share your glitches!
 
 ### Writings:
 
-[The Glitch Moment(um)](http://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf)
+* [The Glitch Moment(um)](http://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf)
 
-[The Glitch Studies Manifesto](http://amodern.net/wp-content/uploads/2016/05/2010_Original_Rosa-Menkman-Glitch-Studies-Manifesto.pdf)
+* [The Glitch Studies Manifesto](http://amodern.net/wp-content/uploads/2016/05/2010_Original_Rosa-Menkman-Glitch-Studies-Manifesto.pdf)
 
-[Glitch Art Narratives](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=4446947&fileOId=4611259)
+* [Glitch Art Narratives](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=4446947&fileOId=4611259)
 
-[Hauntification, Aesthetics and Gentrified Toys in a Glass Globe](http://infinitemiledetroit.com/Hauntification,_Aesthetics_and_Gentrified_Toys_in_a_Glass_Globe_(Or_Making_Glitch_Art_Out_of_Derrida_Instead).html)
+* [Hauntification, Aesthetics and Gentrified Toys in a Glass Globe](http://infinitemiledetroit.com/Hauntification,_Aesthetics_and_Gentrified_Toys_in_a_Glass_Globe_(Or_Making_Glitch_Art_Out_of_Derrida_Instead).html)
 
-[The 3D Additivist Cookbook](http://additivism.org/cookbook)
+* [The 3D Additivist Cookbook](http://additivism.org/cookbook)
 
-[Daniel Temkin](http://lab-zine.com/media/pdf/articles/daniel-temkin.pdf)
+* [Daniel Temkin](http://lab-zine.com/media/pdf/articles/daniel-temkin.pdf)
 
-[Phillip Stearns](http://lab-zine.com/media/pdf/articles/phillip-stearns.pdf)
+* [Phillip Stearns](http://lab-zine.com/media/pdf/articles/phillip-stearns.pdf)
 
-[The Glitch Codec Tutorial](http://nickbriz.com/glitchcodectutorial/files/GlitchCodecTutorial.pdf)
+* [The Glitch Codec Tutorial](http://nickbriz.com/glitchcodectutorial/files/GlitchCodecTutorial.pdf)
 
-[The Aesthetics of Failure](http://www.hz-journal.org/n3/cascone.html)
+* [The Aesthetics of Failure](http://www.hz-journal.org/n3/cascone.html)
 
 ### Books:
 
-[Cracked Media](https://mitpress.mit.edu/books/cracked-media) by Caleb Kelly
+* [Cracked Media](https://mitpress.mit.edu/books/cracked-media) by Caleb Kelly
 
-[Glitch: Designing Imperfection by Imam Moradi](https://mitpress.mit.edu/books/cracked-media)
+* [Glitch: Designing Imperfection](https://mitpress.mit.edu/books/cracked-media) by Imam Moradi
 
-[The Soundscape by R. Murray Schafer](https://www.amazon.com/Soundscape-R-Murray-Schafer/dp/0892814551/)
+* [The Soundscape](https://www.amazon.com/Soundscape-R-Murray-Schafer/dp/0892814551/) by R. Murray Schafer
 
-[Sonic Experience: Guide to Everyday Sounds by Augoyard & Torgue](https://www.amazon.com/Sonic-Experience-Guide-Everyday-Sounds/dp/077352942X/)
+* [Sonic Experience: Guide to Everyday Sounds](https://www.amazon.com/Sonic-Experience-Guide-Everyday-Sounds/dp/077352942X/) by Augoyard & Torgue
 
-[The Art of Noise by Luigi Russolo](https://www.amazon.com/Art-Noise-Destruction-Futurist-Machines/dp/0983884234/)
+* [The Art of Noise](https://www.amazon.com/Art-Noise-Destruction-Futurist-Machines/dp/0983884234/) by Luigi Russolo
 
-[Noise Channels by Peter Krapp](https://www.amazon.com/Noise-Channels-Digital-Electronic-Mediations/dp/0816676259/)
+* [Noise Channels](https://www.amazon.com/Noise-Channels-Digital-Electronic-Mediations/dp/0816676259/) by Peter Krapp
 
-[Glitch Art in Theory and Practice by Michael Betancourt](https://www.amazon.com/Glitch-Art-Theory-Practice-Post-Digital/dp/1138219541/)
+* [Glitch Art in Theory and Practice](https://www.amazon.com/Glitch-Art-Theory-Practice-Post-Digital/dp/1138219541/) by Michael Betancourt
 
-[Information Doesn't Want to Be Free by Cory Doctorow](https://www.amazon.com/Information-Doesnt-Want-Be-Free/dp/1940450462/)
+* [Information Doesn't Want to Be Free](https://www.amazon.com/Information-Doesnt-Want-Be-Free/dp/1940450462/) by Cory Doctorow
 
-[Pattern Recognition by William Gibson](https://www.amazon.com/Pattern-Recognition-William-Gibson/dp/0425198685/)
+* [Pattern Recognition](https://www.amazon.com/Pattern-Recognition-William-Gibson/dp/0425198685/) by William Gibson
 
-[Entropy and Art by Rudolph Arnheim](https://www.amazon.com/Entropy-Art-Essay-Disorder-Order/dp/0520266005/)
+* [Entropy and Art](https://www.amazon.com/Entropy-Art-Essay-Disorder-Order/dp/0520266005/) by Rudolph Arnheim
 
-[Rosencrantz and Guildenstern Are Dead by Tom Stoppard](https://www.amazon.com/Rosencrantz-Guildenstern-Are-Dead-Stoppard/dp/0802132758/)
+* [Rosencrantz and Guildenstern Are Dead](https://www.amazon.com/Rosencrantz-Guildenstern-Are-Dead-Stoppard/dp/0802132758/) by Tom Stoppard
 
-[Rules for Radicals by Saul Alinsky](https://www.amazon.com/Rules-Radicals-Practical-Primer-Realistic/dp/0679721134/)
+* [Rules for Radicals](https://www.amazon.com/Rules-Radicals-Practical-Primer-Realistic/dp/0679721134/) by Saul Alinsky
 
 
 ### Artists:
