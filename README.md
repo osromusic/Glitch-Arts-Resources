@@ -120,6 +120,8 @@ _What would Glitch look like in literature? Using Menkman's definition here are 
 
 * [Mother Courage and Her Children](https://www.amazon.com/Mother-Courage-Children-Bertolt-Brecht/dp/0802130828/) by Bertolt Brecht
 
+* [Six Characters in Search of an Author](https://www.amazon.com/Characters-Search-Author-Thrift-Editions/dp/0486299929/) by Luigi Pirandello
+
 * [The Unnamable](https://www.amazon.com/Three-Novels-Molloy-Malone-Unnamable/dp/0802144470) by Samuel Beckett
 
 * [Rosencrantz and Guildenstern Are Dead](https://www.amazon.com/Rosencrantz-Guildenstern-Are-Dead-Stoppard/dp/0802132758/) by Tom Stoppard
