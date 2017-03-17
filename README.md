@@ -41,6 +41,8 @@ _Articles about Glitch Art | Interviews with Artists | Short writings by Artists
 
 * [Trends of 2016: Glitch and VR](https://birdinflight.com/media/scroll-glitch-and-virtual-reality-art-directors-name-the-main-trends-of-2016.html)
 
+* [Interview with Daniel Temkin](https://motherboard.vice.com/en_us/article/theres-not-much-glitch-in-glitch-art)
+
 * [Expression Through Error](http://www.redefinemag.com/2014/glitch-art-expression-through-an-aesthetic-rooted-in-error/4/)
 
 * [Poetry of Error](http://artpulsemagazine.com/glossing-over-thoughts-on-glitch-a-poetry-of-error)
@@ -70,6 +72,10 @@ _Long-form writings on Glitch process, meaning, and aesthetics_
 * [The Glitch Studies Manifesto](http://amodern.net/wp-content/uploads/2016/05/2010_Original_Rosa-Menkman-Glitch-Studies-Manifesto.pdf)
 
 * [Glitch Art Narratives](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=4446947&fileOId=4611259)
+
+* [Notes on Glitch](http://worldpicturejournal.com/WP_6/Manon.html)
+
+* [Glitch && Human/Computer Interaction](http://nooart.org/post/73353953758/temkin-glitchhumancomputerinteraction)
 
 * [Hauntification, Aesthetics and Gentrified Toys in a Glass Globe](http://infinitemiledetroit.com/Hauntification,_Aesthetics_and_Gentrified_Toys_in_a_Glass_Globe_(Or_Making_Glitch_Art_Out_of_Derrida_Instead).html)
 
