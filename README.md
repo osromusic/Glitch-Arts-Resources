@@ -162,6 +162,8 @@ https://www.artsy.net/artist/jose-carlos-casado
 
 http://www.carolynjanssen.com/%20alt=
 
+https://questionsomething.wordpress.com/
+
 https://www.tommoody.us/about/
 
 https://rosa-menkman.blogspot.com/
@@ -177,6 +179,8 @@ https://www.aol.com/article/news/2016/10/21/legacy-russell-talks-art-world-artsy
 https://shaunajeandoherty.com/2015/11/25/unstable-signal-glitch-video/
 
 http://www.kalliopeamorphous.com/glitch-art-1/
+
+http://www.quart-avant-poing.com/
 
 http://tachyonsplus.tumblr.com/
 
