@@ -248,6 +248,8 @@ _Lessons, instructions, tips, tricks, techniques, and more!_
 
 * [Glitch Codec Tutorial](http://nickbriz.com/glitchcodectutorial/)
 
+* [Datamosh Video in Audacity](http://clickbecause.tumblr.com/post/79287426154/databending-video-with-audacity-fx)
+
 * [Video & Audacity Glitches](http://www.quart-avant-poing.com/audamess/ulaw.html)
 
 * [How To Datamosh](https://www.youtube.com/watch?annotation_id=annotation_460329&feature=iv&src_vid=uUkEIVixcbo&v=tYf3EWMuHH0)
