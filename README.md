@@ -248,6 +248,8 @@ _Lessons, instructions, tips, tricks, techniques, and more!_
 
 * [Glitch Codec Tutorial](http://nickbriz.com/glitchcodectutorial/)
 
+* [Video & Audacity Glitches](http://www.quart-avant-poing.com/audamess/ulaw.html)
+
 * [How To Datamosh](https://www.youtube.com/watch?annotation_id=annotation_460329&feature=iv&src_vid=uUkEIVixcbo&v=tYf3EWMuHH0)
 
 * [Pixel Sorting](http://datamoshing.com/2016/06/16/how-to-glitch-images-using-pixel-sorting/)
