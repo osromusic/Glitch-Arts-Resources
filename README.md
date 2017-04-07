@@ -144,6 +144,8 @@ _This section needs to most work | Artists should be arranged by dominant medium
 
 http://www.selbysart.com/Spencer-Selby-Statement.php
 
+http://shorttermmemoryloss.com/portfolio/
+
 http://danieltemkin.com/
 
 http://jordanbortner.tumblr.com/
