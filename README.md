@@ -23,6 +23,7 @@ Most importantly - please enjoy and share your glitches!
 	- [Galleries](#galleries)
 	- [Online Journals](#online-journals)
 	- [Tutorials](#tutorials)
+	- [Code](#code)
 	- [Tools](#tools)
 	- [Collectives](#collectives)
 	- [Resources](#resources)
