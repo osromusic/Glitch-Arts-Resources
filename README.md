@@ -270,6 +270,10 @@ _Lessons, instructions, tips, tricks, techniques, and more!_
 
 * [Broken GIFs](https://www.reddit.com/r/brokenanimegifs/wiki/tutorial)
 
+### Code:
+_Glitch specific tools made by Glitchers for Glitchers_
+
+* [Glitch Scripts](https://github.com/GlitchTools)
 
 ### Tools:
 _Utility, Work flow, Command line, GUI, broken, post-processing | Share some of your favorites!_
@@ -335,6 +339,8 @@ _Utility, Work flow, Command line, GUI, broken, post-processing | Share some of 
 
 ### Collectives:
 _Glitch Artist groups_
+
+* https://www.facebook.com/groups/GACToolTime/
 
 * http://www.fiercelycurious.com/pages/artists
 
