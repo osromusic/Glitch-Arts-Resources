@@ -16,8 +16,8 @@ Most importantly - please enjoy and share your glitches!
 
 ## Contents
 - [Glitch Arts Resources](#glitch-arts-resources)
-	- [Articles](#articles)
 	- [Writings](#writings)
+	- [Articles](#articles)
 	- [Books](#books)
 	- [Artists](#artists)
 	- [Galleries](#galleries)
@@ -30,6 +30,34 @@ Most importantly - please enjoy and share your glitches!
 	
 - - - 
 
+### Writings:
+_Long-form writings on Glitch process, meaning, and aesthetics_
+
+* [The Glitch Moment(um)](http://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf)
+
+* [The Glitch Studies Manifesto](http://amodern.net/wp-content/uploads/2016/05/2010_Original_Rosa-Menkman-Glitch-Studies-Manifesto.pdf)
+
+* [Glitch Art Narratives](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=4446947&fileOId=4611259)
+
+* [Notes on Glitch](http://worldpicturejournal.com/WP_6/Manon.html)
+
+* [gLossing Over Thoughts on Glitch - A Poetry of Error](https://www.academia.edu/31807214/_gLossing_Over_Thoughts_On_Glitch_-A_Poetry_of_Error_)
+
+* [Glitch && Human/Computer Interaction](http://nooart.org/post/73353953758/temkin-glitchhumancomputerinteraction)
+
+* [Hauntification, Aesthetics and Gentrified Toys in a Glass Globe](http://infinitemiledetroit.com/Hauntification,_Aesthetics_and_Gentrified_Toys_in_a_Glass_Globe_(Or_Making_Glitch_Art_Out_of_Derrida_Instead).html)
+
+* [The Aesthetics of Failure: Post-Digital Tendencies in Contemporary Computer Music](http://subsol.c3.hu/subsol_2/contributors3/casconetext.html)
+
+* [The 3D Additivist Cookbook](http://additivism.org/cookbook)
+
+* [Daniel Temkin](http://lab-zine.com/media/pdf/articles/daniel-temkin.pdf)
+
+* [Phillip Stearns](http://lab-zine.com/media/pdf/articles/phillip-stearns.pdf)
+
+* [The Glitch Codec Tutorial](http://nickbriz.com/glitchcodectutorial/files/GlitchCodecTutorial.pdf)
+
+* [The Aesthetics of Failure](http://www.hz-journal.org/n3/cascone.html)
 
 ### Articles:
 _Articles about Glitch Art | Interviews with Artists | Short writings by Artists_
@@ -65,35 +93,6 @@ _Articles about Glitch Art | Interviews with Artists | Short writings by Artists
 * [Glitch Art Primer](http://www.cbc.ca/radio/spark/225-autonomous-cars-and-the-future-of-cities-always-on-video-communication-ambient-sound-in-the-workplace-1.2847893/a-glitch-art-primer-1.2847894)
 
 * [Datamosh David O'Reilly is Wrong](http://cdm.link/2009/03/how-to-datamosh-with-free-video-tools-datamosh-is-the-wrong-word-david-oreilly-is-also-wrong/)
-
-
-### Writings:
-_Long-form writings on Glitch process, meaning, and aesthetics_
-
-* [The Glitch Moment(um)](http://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf)
-
-* [The Glitch Studies Manifesto](http://amodern.net/wp-content/uploads/2016/05/2010_Original_Rosa-Menkman-Glitch-Studies-Manifesto.pdf)
-
-* [Glitch Art Narratives](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=4446947&fileOId=4611259)
-
-* [Notes on Glitch](http://worldpicturejournal.com/WP_6/Manon.html)
-
-* [gLossing Over Thoughts on Glitch - A Poetry of Error](https://www.academia.edu/31807214/_gLossing_Over_Thoughts_On_Glitch_-A_Poetry_of_Error_)
-
-* [Glitch && Human/Computer Interaction](http://nooart.org/post/73353953758/temkin-glitchhumancomputerinteraction)
-
-* [Hauntification, Aesthetics and Gentrified Toys in a Glass Globe](http://infinitemiledetroit.com/Hauntification,_Aesthetics_and_Gentrified_Toys_in_a_Glass_Globe_(Or_Making_Glitch_Art_Out_of_Derrida_Instead).html)
-
-* [The 3D Additivist Cookbook](http://additivism.org/cookbook)
-
-* [Daniel Temkin](http://lab-zine.com/media/pdf/articles/daniel-temkin.pdf)
-
-* [Phillip Stearns](http://lab-zine.com/media/pdf/articles/phillip-stearns.pdf)
-
-* [The Glitch Codec Tutorial](http://nickbriz.com/glitchcodectutorial/files/GlitchCodecTutorial.pdf)
-
-* [The Aesthetics of Failure](http://www.hz-journal.org/n3/cascone.html)
-
 
 ### Books:
 _Books on Glitch | Studies and theories that overlap with Glitch | Glitch in Books_
