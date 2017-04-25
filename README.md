@@ -78,6 +78,8 @@ _Long-form writings on Glitch process, meaning, and aesthetics_
 
 * [Notes on Glitch](http://worldpicturejournal.com/WP_6/Manon.html)
 
+* [gLossing Over Thoughts on Glitch - A Poetry of Error](https://www.academia.edu/31807214/_gLossing_Over_Thoughts_On_Glitch_-A_Poetry_of_Error_)
+
 * [Glitch && Human/Computer Interaction](http://nooart.org/post/73353953758/temkin-glitchhumancomputerinteraction)
 
 * [Hauntification, Aesthetics and Gentrified Toys in a Glass Globe](http://infinitemiledetroit.com/Hauntification,_Aesthetics_and_Gentrified_Toys_in_a_Glass_Globe_(Or_Making_Glitch_Art_Out_of_Derrida_Instead).html)
