@@ -38,6 +38,8 @@ _Articles about Glitch Art | Interviews with Artists | Short writings by Artists
 
 * [Conversation with Jon Cates](http://hyperallergic.com/134709/glitch-expectations-a-conversation-with-jon-cates/)
 
+* [Glitch Art and Dirty New Media](https://medium.com/@joncates/glitch-art-and-dirty-new-media-an-interview-with-joncates-2013-dac2113ac06d)
+
 * [Interview Exploring Glitch Art](http://hyperallergic.com/56704/faultline-an-interview-exploring-glitch-art/)
 
 * [Trends of 2016: Glitch and VR](https://birdinflight.com/media/scroll-glitch-and-virtual-reality-art-directors-name-the-main-trends-of-2016.html)
