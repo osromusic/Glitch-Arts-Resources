@@ -155,6 +155,8 @@ http://danieltemkin.com/
 
 http://jordanbortner.tumblr.com/
 
+http://notendo.com/
+
 http://www.polygon1993.com/portfolio/
 
 http://scifi-mascara.tumblr.com/
