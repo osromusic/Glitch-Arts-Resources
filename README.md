@@ -143,6 +143,8 @@ _What would Glitch look like in literature? Using Menkman's definition here are 
 ### Artists:
 _This section needs to most work | Artists should be arranged by dominant medium and Location_
 
+http://gl1tch.us/
+
 http://www.selbysart.com/Spencer-Selby-Statement.php
 
 http://shorttermmemoryloss.com/portfolio/
