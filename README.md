@@ -308,7 +308,7 @@ _Utility, Work flow, Command line, GUI, broken, post-processing | Share some of 
 
 * [Eisenkraut](https://github.com/Sciss/Eisenkraut)
 
-* [Gleetchlab 3](http://www.giorgiosancristoforo.net/softwares/gleetchlab-3/) - no longer available :( but maybe one day!
+* [Gleetchlab 4](http://www.giorgiosancristoforo.net/softwares/gleetchlab-4/)
 
 * [Audacity](http://www.audacityteam.org/)
 
