@@ -27,8 +27,8 @@ Most importantly - please enjoy and share your glitches!
 	- [Tools](#tools)
 	- [Collectives](#collectives)
 	- [Resources](#resources)
-	
-- - - 
+
+- - -
 
 ### Writings:
 _Long-form writings on Glitch process, meaning, and aesthetics_
@@ -343,6 +343,8 @@ _Utility, Work flow, Command line, GUI, broken, post-processing | Share some of 
 * [Media Info](https://mediaarea.net/en/MediaInfo)
 
 * [VLC Player](https://www.videolan.org/vlc/index.html)
+
+* [jpk](http://ajxs.github.io/jpk/)
 
 
 ### Collectives:
